@@ -1,0 +1,4 @@
+A company scientist making cool new potions
+
+/summon villager ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"Scientist"}',VillagerData:{level:99,profession:"minecraft:cleric"},Offers:{Recipes:[{maxUses:5,uses:0,xp:10,priceMultiplier:1f,specialPrice:1,demand:1,buy:{id:"minecraft:emerald",Count:5b},sell:{id:"minecraft:potion",Count:1b,tag:{Potion:"minecraft:strong_healing"}}},{maxUses:5,uses:0,xp:10,priceMultiplier:1f,specialPrice:1,demand:1,buy:{id:"minecraft:emerald",Count:10b},sell:{id:"minecraft:potion",Count:1b,tag:{Potion:"minecraft:strong_regeneration"}}}]}}
+

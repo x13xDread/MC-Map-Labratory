@@ -1,0 +1,4 @@
+An inmate just like you, though they don't seem compelled to leave
+
+/summon villager ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"Prisoner"}',VillagerData:{level:99,profession:"minecraft:librarian"},Offers:{Recipes:[{maxUses:5,uses:0,xp:10,priceMultiplier:1f,specialPrice:1,demand:1,buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:rotten_flesh",Count:10b}},{maxUses:5,uses:0,xp:10,priceMultiplier:1f,specialPrice:1,demand:1,buy:{id:"minecraft:emerald",Count:3b},buyB:{id:"minecraft:rotten_flesh",Count:1b},sell:{id:"minecraft:dried_kelp",Count:5b}},{maxUses:5,uses:0,xp:10,priceMultiplier:1f,specialPrice:1,demand:1,buy:{id:"minecraft:emerald",Count:16b},sell:{id:"minecraft:iron_sword",Count:1b,tag:{display:{Name:'{"text":"Shank"}'}}}}]}}
+

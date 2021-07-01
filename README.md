@@ -9,3 +9,6 @@ The World can only be used on MC 1.17 as of now. In the future, future versions 
 
 ## Custom Mobs/Items
 No Mods are used for this map, so all the custom mobs and items are created using commands. Make your own at https://mcstacker.net/
+
+## Pre-releases
+The Pre-release branch holds future updates to the main map that can be tested by players as they are added, play these versions at your own risk as they may be incomplete or be drastically different from the current version. Keep in mind pre-release stuff is subject to change at anytime.

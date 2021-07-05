@@ -1,5 +1,5 @@
 # MC-Map-Labratory
-Contains World files, structure files, textures, sounds, custom mobs, custom items, and anything else I used to make this map.
+Contains World files, structure files, textures, sounds, custom mobs, custom items, and anything else I used to make this map. Also as a quick PSA, I need player testers, if you are interested DM me on Discord @x13xDread#9232
 
 ## World Download
 The world folder is the entire "Making Map" folder or there is a zip file which can be extracted into your world directory.

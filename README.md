@@ -17,13 +17,13 @@ No Mods are used for this map, so all the custom mobs and items are created usin
 ### Pre-releases
 The Pre-release branch holds future updates to the main map that can be tested by players as they are added, play these versions at your own risk as they may be incomplete or be drastically different from the current version. Keep in mind pre-release stuff is subject to change at anytime.
 
-### V1.2 Info
-- Changed Spawn Locations for Guards in Area B
-  - By entrance
-  - By backup power/observatory
-  - Large Vents
-  - By exit to Area C
-- Removed Spawn Locations for Mad Scientists in Labs
-  - Location in lab 2
-- Added Spawn Location for Guards at Spawn Area
-  - By Computer Lab
+### v2.0 Info
+- New Section Added, Elevator Lobby
+  - Elevators
+  - Stairs to second floor (where the remainder of the map for now will play out)
+  - Locker Room
+- New NPC Janitor
+  - Located in the Locker Room Maintence
+  - Sells 4 new items!
+- More Loot
+

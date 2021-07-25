@@ -25,5 +25,10 @@ The Pre-release branch holds future updates to the main map that can be tested b
 - New NPC Janitor
   - Located in the Locker Room Maintence
   - Sells 4 new items!
-- More Loot
+- New Floor
+  - Offices
+  - Restroom
+  - New Puzzle (Battery Puzzle)
+  - New Mob (Disgruntled Worker)
+- More Loot (Both from new Mobs and locations)
 
